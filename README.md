@@ -1,7 +1,7 @@
 ### Hi there 👋, Mikael gonçalves Aqui!
 
 <p align="center">Eu gosto de resolver grandes desafios usando tecnologia. Do desenvolvimento backend usando NodeJS ao desenvolvimento frontend usando ReactJS, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um desenvolvedor full stack de nível médio focado em desenvolvimento web.</p> <div  align="center" style="margin-bottom:100px">
-<img width="55%" align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Mikael987&theme=radical&mode=weekly" /> 
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">

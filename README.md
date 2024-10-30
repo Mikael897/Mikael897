@@ -1,6 +1,7 @@
 ### Hi there 👋, Mikael gonçalves Aqui!
 
-<p align="center">Eu gosto de resolver grandes desafios usando tecnologia. Do desenvolvimento backend usando NodeJS ao desenvolvimento frontend usando ReactJS, sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. Hoje, sou um desenvolvedor full stack de nível médio focado em desenvolvimento web.</p> <div  align="center" style="margin-bottom:100px">
+<p align="center"> Aqui está uma versão que inclui mais sobre suas habilidades:
+Sou um desenvolvedor web comprometido em criar soluções de qualidade, unindo backend com Node.js e PHP ao frontend com React.js, JavaScript e jQuery. Enfrentar desafios complexos e explorar novas tecnologias me motiva a elevar o padrão do que entrego, sempre aprimorando minhas habilidades e otimizando cada detalhe.</p> <div  align="center" style="margin-bottom:100px">
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
